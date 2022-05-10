@@ -280,8 +280,7 @@
 
 ## Books
 
-
-* Coming Soon 
+* [Laravel Queues in Action](https://learn-laravel-queues.com/#buy)
 
 ## Starter Projects
 
