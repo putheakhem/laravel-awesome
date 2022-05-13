@@ -264,7 +264,7 @@ or [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www
 
 * [Laracasts](https://laracasts.com/)
 * [Bitfumes](https://bitfumes.com/)
-* [Coursecode](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
+* [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Treehouse](https://teamtreehouse.com/library/q:laravel)
 * [DevDojo](https://devdojo.com/search?value=laravel)
