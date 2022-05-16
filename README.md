@@ -67,6 +67,7 @@ or [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - List all installed packages, their dependencies, app & server details
 
 ##### Debugging & Profiling
+* [Telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework.
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [Laravel Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer
