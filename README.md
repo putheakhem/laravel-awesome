@@ -328,6 +328,7 @@ or [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www
 * [Statamic](https://statamic.com/)
 * [Quarx](https://github.com/yabhq/quarx)
 * [PJ Blog](https://github.com/jcc/blog/)
+* [UnfoldCMS](https://unfoldcms.com/) - Self-hosted Laravel 12 CMS with React 19 + shadcn/ui admin, full REST API, HMAC-signed webhooks, and headless support for Next.js, Astro, SvelteKit, and Nuxt. ([Source Code](https://github.com/hpakdaman/unfoldcms))
 
 ## Newsletters
 
