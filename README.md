@@ -315,6 +315,7 @@ or [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 * [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
+* [Laravel Appointment Reminders](https://github.com/jy7lsna/laravel-appointment-reminders) - Appointment booking with confirmation emails, calendar invites and automatic reminder emails, sent via the Mailtrap Email API
 
 ## Content Management Systems
 
