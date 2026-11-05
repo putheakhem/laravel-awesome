@@ -311,6 +311,7 @@ or [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www
 * [Laravel.io](https://github.com/laravelio/laravel.io) - Source for the Laravel.io Community Portal
 * [Flarum](https://github.com/flarum/flarum) - Delightfully simple forum
 * [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
+* [Laravel Appointment Reminders](https://github.com/jy7lsna/laravel-appointment-reminders) - Appointment booking with calendar invites (.ics), 24h/2h email reminders and one-click reschedule
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
